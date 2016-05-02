@@ -1,0 +1,3 @@
+.\setup /PrepareSchema /IAcceptExchangeServerLicenseTerms
+.\ = Exchange Setup Installatie path
+navigeer naar .\ via cd en dir

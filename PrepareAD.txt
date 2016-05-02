@@ -1,0 +1,3 @@
+.\setup /Preparead /IAcceptExchangeServerLicenseTerms /OrganizationName:”VOER EXCHANGE Organization Name IN”
+.\ = Exchange Setup Folder 
+navigeer naar .\ via cd en dir
